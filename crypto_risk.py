@@ -380,6 +380,6 @@ fig.update_layout(
     xaxis=dict(tickmode='linear', tickangle=-45)
 )
 
-
+ st.plotly_chart(fig)
 
 styled_df
