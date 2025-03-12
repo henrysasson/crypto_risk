@@ -1,8 +1,10 @@
 numpy==1.22.3
 pandas==1.5.3
 plotly==5.17.0
-inflection==0.5.1
-python-dateutil==2.8.1
 streamlit==1.40.0
 scipy==1.9.3
 python-binance==1.0.27
+inflection==0.5.1
+more-itertools==8.7.0
+python-dateutil==2.8.1
+six==1.15.0
