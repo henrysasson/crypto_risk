@@ -1,7 +1,7 @@
 from binance.client import Client
 import pandas as pd
 import datetime
-import sqlite3
+
 import numpy as np
 
 import pandas as pd
